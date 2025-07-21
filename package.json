@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@react-oauth/google": "^0.12.2",
+    "@supabase/supabase-js": "^2.49.8",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "galileo": "^1.9.0",
+    "openai": "^5.1.1"
+  }
+}
